@@ -1,16 +1,13 @@
-## Hi there 👋
+## just biggullyzo13, writing code 👋
 
-<!--
-**biggullyzo13/biggullyzo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer building reliable APIs and distributed services. Go & Python. Based in Philippines.
 
-Here are some ideas to get you started:
+- shipping small and often
+- keeps notes about distributed microservices that will never be published
+- rewrites it once, then leaves it alone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=biggullyzo13&hide_border=true&theme=react-dark" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=biggullyzo13&hide_border=true&theme=blue-green" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/Go-2dd4bf?style=for-the-badge&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/PostgreSQL-2dd4bf?style=for-the-badge&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-2dd4bf?style=for-the-badge&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Docker-2dd4bf?style=for-the-badge&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Python-2dd4bf?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-2dd4bf?style=for-the-badge&logoColor=white" alt="FastAPI" />
